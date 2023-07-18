@@ -1,1 +1,1 @@
-"# civitai_realistic_vision_4.0" 
+"civitai_realistic_vision_4.0" 
